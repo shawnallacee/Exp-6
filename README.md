@@ -105,3 +105,4 @@ plt.show()
 
 
 ## Result
+The ARIMA $(1, 1, 1)$ time series forecasting model was successfully implemented using Python's `statsmodels` library. After verifying stationarity, the model was fitted to the historical trend data to predict subsequent periods. Performance evaluation using **MAE** and **RMSE** demonstrated that the ARIMA model effectively captures temporal dependencies and generates reliable future forecasts.
